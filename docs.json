@@ -7,17 +7,16 @@
     "light": "#9d405f",
     "dark": "#6d1733"
   },
-  "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
       {
         "tab": "Guides",
-        "groups": [
+        "pages": [
+          "guides/introduction",
           {
-            "group": "Getting started",
+            "group": "Regional Air Mobility",
             "pages": [
-              "index",
-              "development"
+              "guides/regional-air-mobility/quickstart"
             ]
           }
         ]
@@ -28,7 +27,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:darshan.sarojini@vt.edu"
       }
     ],
     "primary": {
@@ -51,9 +50,11 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "github": "https://github.com/Idopt-Lab",
+      "website": "https://sites.google.com/view/darshan-sarojini/home"
     }
+  },
+  "search": {
+    "prompt": "Ask Idopt"
   }
 }
