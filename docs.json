@@ -58,5 +58,8 @@
   },
   "search": {
     "prompt": "Ask Idopt"
+  },
+  "background": {
+    "decoration": "gradient"
   }
 }
