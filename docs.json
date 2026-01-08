@@ -10,12 +10,14 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Research",
+        "icon": "gear",
         "pages": [
           "guides/introduction",
           {
             "group": "Regional Air Mobility",
             "pages": [
+              "research/regional-air-mobility/introduction",
               "guides/regional-air-mobility/quickstart"
             ]
           }

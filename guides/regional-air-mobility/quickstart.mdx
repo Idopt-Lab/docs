@@ -1,3 +1,36 @@
 ---
 title: "Quickstart"
 ---
+
+
+<Steps>
+  <Step title="Clone the repo">
+    ```
+    git clone https://github.com/Idopt-Lab/regional-air-mobility-design-operations
+    cd regional-air-mobility-design-operations
+    ```
+  </Step>
+  <Step title="Create a virtual environment">
+    ```
+    python -m venv venv
+    ```
+
+    or make a conda env
+
+    ```
+    conda create -n idopt-env python=3.10
+    ```
+
+    activate the env.
+  </Step>
+  <Step title="Install dependencies">
+    ```
+    pip install -e .
+    ```
+  </Step>
+  <Step title="Use RAM!">
+    ```python
+    import ram_idopt
+    ```
+  </Step>
+</Steps>
