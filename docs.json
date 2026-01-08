@@ -26,12 +26,7 @@
     ]
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:darshan.sarojini@vt.edu"
-      }
-    ],
+    "links": [],
     "primary": {
       "type": "button",
       "label": "Dashboard",
@@ -61,5 +56,8 @@
   },
   "background": {
     "decoration": "gradient"
+  },
+  "appearance": {
+    "default": "light"
   }
 }
