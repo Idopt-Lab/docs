@@ -3,9 +3,9 @@
   "theme": "maple",
   "name": "IDOPT Lab",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#861f41",
+    "light": "#9d405f",
+    "dark": "#6d1733"
   },
   "favicon": "/favicon.svg",
   "navigation": {
